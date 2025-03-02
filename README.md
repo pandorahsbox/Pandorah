@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @klashpy313 
-- 👀 I’m interested in ... being able to hack like one of those guys in the spy movies 
-- 🌱 I’m currently learning ... python!
-- 💞️ I’m looking to collaborate on ... something, when I figure out how stuff works 
-- 📫 How to reach me ... carrier pigeon might work? 
+- 👋 Hi, I’m @pandorahsbox
+- 👀 I’m interested in ... passing my classes 
+- 🌱 I’m currently learning ... Java
+- 💞️ I’m looking to collaborate on ... crying in my dorm and eating chicken nuggets
+- Fun fact, Doug Lea is one of my professors. 
 
 <!---
 klashpy313/klashpy313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
