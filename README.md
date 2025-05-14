@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pandorahsbox
 - 👀 I’m interested in ... passing my classes 
 - 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ... crying in my dorm and eating chicken nuggets
+- 💞️ I’m looking to collaborate on ... crying in my dorm and eating gyoza
 - Fun fact, Doug Lea is one of my professors. 
 
 <!---
